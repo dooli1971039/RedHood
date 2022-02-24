@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Item1
+  - Item4
+  - Item6
+  - Item5
+  - Item3
+  - Item2
+  - Enemy
+  - Item7
+  - Item8
+  - Item9
+  - item10
+  - "\uB9D0\uD48D\uC1201"
+  - "\uB9D0\uD48D\uC1202"
+  - happy
+  - normal
+  - upset
+  - basic
+  - conversation
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

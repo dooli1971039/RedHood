@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2bbcd94882b49ed49bb0813ecd90eba7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_goPrefab: {fileID: 238669331324794793, guid: 607b85cf057720942a07b43007180b82, type: 3}
+  - m_tfRock: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
