@@ -7,7 +7,7 @@ KING 2021 여름프로젝트 - 빨간망토 (PC게임)
 - 제목: **빨간 망토**
 - 장르: 퍼즐
 - 플랫폼: PC
-- 개발 툴: <img src="https://img.shields.io/badge/Unity2D-3178C6?style=flat&logo=Unity&logoColor=white"/>
+- 개발 툴: ![Unity Badge](https://img.shields.io/badge/Unity2D-3178C6?style=flat&logo=Unity&logoColor=white)
 - 개발 기간: 2021.06.27 ~ 2021.08.24
 
 ## What I did (10기 이진경)
